@@ -1,0 +1,5 @@
+[2026-07-24 18:05:31] [ERROR] Disk space low on /var/log
+[2026-07-24 18:05:32] [ERROR] Database connection pool exhausted
+[2026-07-24 18:05:34] [ERROR] Database connection pool exhausted
+[2026-07-24 18:05:35] [ERROR] Database connection pool exhausted
+[2026-07-24 18:05:36] [ERROR] Disk space low on /var/log
